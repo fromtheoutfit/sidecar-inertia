@@ -1,5 +1,5 @@
 {
-    "name": "fromtheoutfit/sidecar-inertia",
+    "name": "hammerstone/sidecar-inertia",
     "description": "A Laravel package to render Inertia apps on AWS Lambda.",
     "type": "library",
     "license": "MIT",
